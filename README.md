@@ -20,5 +20,4 @@ i've made many discord bots over my time- examples include:
 - 3d modelling, using blender
 - luau (roblox, lune)
 
-### see you around!
-*hopefully..*
+see you around! *hopefully..*
